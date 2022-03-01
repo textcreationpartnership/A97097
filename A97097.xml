@@ -1,0 +1,251 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands lamentable slaverie, proceeding from the arbitrarie will, severitie, and injustnes of kings, negligence, corruption, and unfaithfulnesse of parliaments, coveteousnesse, ambition. and variablenesse of priests, and simplicitie, carelesnesse, and cowardlinesse of people. Which slaverie, with the remedie may be easily observed. By the scope of a modest &amp; smooth letter, written by a true lover of his countrey and a faithfull friend to that worthy instrument of Englands freedome, Lievten. Collonell Lilburn, now unjustlie imprisoned in Newgate. Being committed first, by order and vote of Parliament without cause shewed, and then secondly for refusing to answer upon interrogatories to their committee of examinations, contrarie to 1. The great charter of England. 2. The very words of the Petition of right. 3. The act made this present Parliament; for the abolishing the Star-Chamber. ...</title>
+            <author>Walwyn, William, 1600-1681.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97097</idno>
+            <idno type="STC">Wing W681C</idno>
+            <idno type="STC">Thomason E304_19</idno>
+            <idno type="STC">ESTC R200316</idno>
+            <idno type="EEBO-CITATION">99861118</idno>
+            <idno type="PROQUEST">99861118</idno>
+            <idno type="VID">113246</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97097)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113246)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 50:E304[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands lamentable slaverie, proceeding from the arbitrarie will, severitie, and injustnes of kings, negligence, corruption, and unfaithfulnesse of parliaments, coveteousnesse, ambition. and variablenesse of priests, and simplicitie, carelesnesse, and cowardlinesse of people. Which slaverie, with the remedie may be easily observed. By the scope of a modest &amp; smooth letter, written by a true lover of his countrey and a faithfull friend to that worthy instrument of Englands freedome, Lievten. Collonell Lilburn, now unjustlie imprisoned in Newgate. Being committed first, by order and vote of Parliament without cause shewed, and then secondly for refusing to answer upon interrogatories to their committee of examinations, contrarie to 1. The great charter of England. 2. The very words of the Petition of right. 3. The act made this present Parliament; for the abolishing the Star-Chamber. ...</title>
+                  <author>Walwyn, William, 1600-1681.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed October, 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A true lover of his countrey = William Walwyn.</note>
+                  <note>Caption title.</note>
+                  <note>Place of publication from Wing; imprint date from colophon.</note>
+                  <note>Annotation on Thomason copy: "London 11th Octob: 1645".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:113246:1"/>
+            <p>The craft and deluſion of thoſe that would maſter and controle the Peo<g ref="char:EOLhyphen"/>ple, hath not availed (by fomenting our differences in Religion, which is their common practice) to make me judge prepoſterouſly, either of your or any other mens ſufferings.</p>
+            <p>We have a generall cau<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion, that no man ſuffer as an evill doer; but if any ſuffer or well doing, who are they that would be thought Chriſtians, and can exempt themſelves from ſuffering with them? No certainly, it is neither pettie differences in opinions, nor perſonall frailties in ſufferers, nor both, that can acquite or excuſe us in the ſight of God<g ref="char:punc">▪</g> ſo we are not ſimplie to be ſpectators or beholders of them a far off (as too many doe,) but if one ſuffer, all ought to ſuffer with that one, even by having a ſympathie and fellow feeling of his miſerie<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and helping to beare his burden; ſo that he may be eaſed in the day of tentation; yea and the ſentences both of abſolu<g ref="char:EOLhyphen"/>tion and condemnation ſhall be pronounced at the great day, according to the viſiting or not viſiting of Priſoners, and hearing of their mourning, ſighs, and groanes.</p>
+            <p>This is my judgement, from whence hath iſſued this my practice, that when I heare of the ſufferings of any man, I doe not enquire, what his judgement is in Religion, nor doe I give eate to any tales or reports of any mans perſonall imperfection. (being privie to mine owne) but I preſently labour to be rightly informed of the cauſe of his ſufferings (alledged againſt him) whether that be evill or good, and of the proceedings thereupon, whether legall or illegall, iuſt or uniuſt.</p>
+            <p>And this hath been my courſe and practice in things of that nature for almoſt a ſcore of yeares, whoever have been the Judges, whether Parlia<g ref="char:EOLhyphen"/>ment, King, Counſell board, Star Chamber, High Commiſſion<g ref="char:punc">▪</g> Kings<g ref="char:EOLhyphen"/>bench, or any Judicatory, yea what ever the recuſer, or the accuſed, the judgement or puniſhment hath been; I have taken this my juſt and neceſſa<g ref="char:EOLhyphen"/>ry liberty; for having read, obſerved d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted and conſidered both ancient and latter times the variations and charges of Governments and Gover<g ref="char:EOLhyphen"/>nors, and looking upon the preſent <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> judgement, I ſtill find a neceſſity of the <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me my accuſtomed watchfullneſſe, it never being out of date; [the more my hearts grief<g ref="char:punc">▪</g>] for worthy and good men (nay the moſt publique ſpirited men): to ſuffer for <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> is promiſed the bleſſing and the heavenly Kingdome <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:punc">▪</g>
+            </p>
+            <p>Your ſuffering at preſent, is bec<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me every good mans <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for they all univerſally <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> your faithfulneſſe and zeale <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> publique <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>le to be ſuch, as no occaſion or tentation, could poſſibly corrupt, and the teſti<g ref="char:EOLhyphen"/>monies you have given thereof to be ſo great, as greater could not be.</p>
+            <pb n="3" facs="tcp:113246:1"/>
+            <p>They obſerve likewiſe, the large teſtimonie given of your deſerts, by your honourable and worthy Friend in the Armie, Lievten. Generall <hi>Crem<g ref="char:EOLhyphen"/>well.</hi>
+            </p>
+            <p>And therefore, that you ſhould now be kept in ſafe cuſtodie, was very ſad newes to all that love you; knowing how impoſſible it was, to make you flie or ſtart aſide; but when they heard that you were ſent to that reproachfull priſon of Newgate, they were confounded with griefe.</p>
+            <p>It ſhould ſeeme, that you being queſtioned by the Committee of Exa<g ref="char:EOLhyphen"/>minations ſtood upon your old guard, alledging it to be againſt your liber<g ref="char:EOLhyphen"/>ty, as you w<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e a free borne Engliſhman, to anſwer to queſtions againſt your ſelfe, urging <hi>MAGNA CHARTA</hi> to juſtifie your ſo doing; And complaining that contrary to the ſaid Charter, you had beene divers times impriſoned by them.</p>
+            <p>Now it is not much to be wondred at, that this your carriage ſhould be very offenſive unto them; for you were not the firſt by divers, (whom I could name) that have been examined upon queſtions, tending to their own accuſation and impriſonment too, for refuſing to anſwer<g ref="char:punc">▪</g> but you are the firſt indeed, that ever raiſed this new doctrine of <hi>MAGNA CHARTA,</hi> to prove the ſame unlawfull.</p>
+            <p>Likewiſe, You are the firſt, that compareth this dealing to the crueltie of the Starte Chamber, and that produced the Vote of this Parliament againſt thoſe cruelties (ſo unjuſtly inflicted on your ſelfe by that tyrannous Court) And how could you Imagine this could be indured by a Committee of Par<g ref="char:EOLhyphen"/>liament? No, moſt Parliament men are to learne what is the juſt power of a Parliament, what the Parliament may doe, and what the Parliament (it ſelfe) may not doe, It's no marvell then that others are ignorant, very good men there be; who affirme, that a Parliament being once choſen, have pow<g ref="char:EOLhyphen"/>er over all our lives eſtates and liberties, to diſpoſe of them at their pleaſure whether for our good or hurt, All's one (ſay they) we have truſted them, and they are bound to no rules, nor bounded by any limits, but whatſoever they ſhall ordaine, binds all the people, it's paſt all diſpute, they are accoun<g ref="char:EOLhyphen"/>table unto none, they are above <hi>MAGNA CHARTA</hi> and all Lawes what<g ref="char:EOLhyphen"/>ſoever, and there is no pleading of any thing againſt them.</p>
+            <p>Others there are (as good wiſe and juditious men) who affirme, that a Parliamentary authority is a power intruſted by the people (that choſe them) for their good, ſafetie, and freedome; and therefore that a Parliament cannot juſtlie doe any thing, to make the people leſſe ſafe or leſſe free then they found them: <hi>MAGNA CHARTA</hi> (you muſt obſerve) is but a part of the peoples rights and liberties, being no more but what with much
+<pb n="4" facs="tcp:113246:2"/> ſtriving and fighting, was by the blood of our Anceſtors, wreſtled out of the pawes of thoſe Kings, who by force had conquered the Nation, changed the lawes and by ſtrong hand held them in bondage.</p>
+            <p>For though <hi>MAGNA CHARTA</hi> be ſo little, as leſſe could not be gran<g ref="char:EOLhyphen"/>ted with any pretence of freedome, yet as if our Kings had repented them of that little, they alwaies ſtrove to make it leſſe, wherein very many times they had the u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>naturall aſſiſtance of Parliam<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nts to helpe them: For Sir, it we ſhould read over all the hudge volume of our Statutes, we might eaſi<g ref="char:EOLhyphen"/>ly obſerve how miſerablie Parliaments aſſembled, have ſpent moſt of their times and wee ſhall not find one Statute made to the enlargement of that ſtreight bounds, deceitfully and improperlie called <hi>MAGNA CHARTA,</hi> (indeed ſo called to blind the people) but if you ſhall obſerve and marke with your pen, every particular Statute made to the abridgement of <hi>MAGNA CHARTA,</hi> you would make a very blotted booke, if you left any part un<g ref="char:EOLhyphen"/>blotted,</p>
+            <p>Sometimes you ſhall find them very ſeriouſly imployed, about letting looſe the Kings prerogatives, then denominating what ſhould be Treaſon againſt him (though to their owne vexation and continuall danger of their lives) ſometimes enlarging the power of the Church, and then againe abrid<g ref="char:EOLhyphen"/>ging the ſame, ſometimes deviſing puniſhments for Hereſie, and as zealous in the old groſſeſt ſuperſtitions, as in the more refined and new, but ever to the vexation of the people.</p>
+            <p>See how buſie they have been about the regulating of petty inferiour trades and exerciſes, about the ordering of hunting, who ſhould keep Deere and who ſhould not, who ſhould keep a Greayhound, and who a Pigeon<g ref="char:EOLhyphen"/>houſe, what puniſhment for Deere ſtealing, what for every Pigeon killed, contrary to law, who ſhould weare cloth of ſuch a price, who Velvet, Gold, and Silver, what wages poore Labourers ſhould have, and the like precious and rare buſineſſe, being moſt of them put on of purpoſe to divert them from the very thoughts of freedome, ſuitable to the repreſentative, body of ſo great a people.</p>
+            <p>And when by any accident or intollerable oppreſſion they were rooſed out of thoſe waking dreames, then whats the greateſt thing they ayme at? Hough w<hi rend="sup">th</hi> one conſent, cry out for <hi>MAGNA CARTA,</hi> (like great is <hi>Diana</hi> of the <hi>Epheſians</hi>) calling that meſſe of pottage their birth right, the great in<g ref="char:EOLhyphen"/>heritance of the people, the great Charter of England.</p>
+            <p>And truly, when ſo choice a people, (as one would thinke Parliaments could not faile to be) ſhall inſiſt upon ſuch inferiour things, neglecting grea<g ref="char:EOLhyphen"/>ter matters, and be ſo unskilfull in the nature of common and juſt freedom,
+<pb n="5" facs="tcp:113246:2"/> as to call bondage libertie, and the grants of Conquerours their Birth-rights, no marvaile ſuch a people make ſo little uſe of the greateſt advantages; and when they might have made a newer and better Charter, have falne to pat<g ref="char:EOLhyphen"/>ching the old.</p>
+            <p>Nor are you to blame others for extolling it, that are tainted therewith your ſelfe, (ſaving only that its the beſt we have) <hi>Magna Charta</hi> hath been more precious in your eſteeme then it deſerveth; for it may be made good to the people, and yet in many particulars, they may remaine under intolera<g ref="char:EOLhyphen"/>bl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> oppreſſions, as I could eaſily inſtance: And if there be any neceſſity on your behalfe, it ſhall not faile (with Gods grace) to be effected, let who ſo will be offended, but if there be not a neceſſity, I conceive it better (for this preſent age) to be concealed, then any wiſe divulged.</p>
+            <p>But in this point you are very cleare, that the parliament ought to pre<g ref="char:EOLhyphen"/>ſerve you in the Freedomes and liberties contained in <hi>Magna Charta</hi> at the leaſt, and they are not to permit any authority or Juriſdiction whatſoever to abridge you or any man thereof, much leſſe may they be the doers there<g ref="char:EOLhyphen"/>of themſelves: Something may be done through miſinformation, but be<g ref="char:EOLhyphen"/>lieve it, upon conſideration, they are to make a mends. <hi>Humanum eſt errare.</hi>
+            </p>
+            <p>But as <hi>Abraham</hi> reaſoning with God, was bold to ſay to that Almighty power, Shall not the Judge of all the earth doe right? Much more may I in this your caſe be bold to ſay, ſhall not the Supreame Judicatory of the Com<g ref="char:EOLhyphen"/>mon Wealth doe right? God forbid.</p>
+            <p>That libertie and priviledge which you claime is, as due unto you, as the ayre you breath in; for a man to be examined in crimminall caſes againſt himſelfe, and to be urged to accuſe himſelfe is as unnaturall and unreaſona<g ref="char:EOLhyphen"/>ble, as to urge a man to kill himſelfe, for though it be not ſo high a degree of wickedneſſe, yet it is as really wicked.</p>
+            <p>And for any man to be impriſoned without cauſe declared, and witneſſed (by more then one appearing face to face) is not only unjuſt; becauſe expreſſie againſt <hi>Magna Charta</hi> (both of Heaven and Earth) but alſo againſt all reaſon ſenſe, and the common Law of equitie and juſtice.</p>
+            <p>Now in ſuch caſes as theſe, no authoritie in the world can over-rule with<g ref="char:EOLhyphen"/>out palpable ſinne; It is not in theſe caſes, as it is in other things contained<g ref="char:punc">▪</g> in <hi>Magna Charta,</hi> ſuch as are the freedomes of the Church therein mentio<g ref="char:EOLhyphen"/>ned, for ſome doe argue that their power muſt be above <hi>Magna Charta,</hi> or otherwiſe they would not juſtlie alter the Government of the Church, by Arch Biſhops and Biſhops, who have their foundation in <hi>Magna Charta.</hi>
+            </p>
+            <p>But ſuch are to conſider, that the Government of the Church, is a thing
+<pb n="6" facs="tcp:113246:3"/> diſputable and uncertaine, and was alwaies burthenſome to the people now unto things to themſelves diſputable and uncertaine, as there is no reaſon why any man ſhould be bound expreſly to any one forme, further then his Judgement and conſcience doe agree thereunto, even ſo ought the whole Nation to be free therein even <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aker and change the publique forme, as may beſt ſtand with the ſafety and freedome of the people, For the Parlia<g ref="char:EOLhyphen"/>ment is ever at libertie to make the People more free from burthen and op<g ref="char:EOLhyphen"/>preſſions of any nature, but in things appertaining to the univerſall <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of common equitie and juſtice, all men and all Authority in the world are bound.</p>
+            <p>This Parliament was preſerved and eſtabliſhed, by the love and affections of the people, becauſe they found themſelves in great bondage and thral<g ref="char:EOLhyphen"/>dome both ſpirituall and temporall; out of both which the Parliament propoſed to deliver them in all their endeavours, at leaſt Declarations, wher<g ref="char:EOLhyphen"/>in never was more aſſiſtance given by a people.</p>
+            <p>And for the firſt, it was a great thing, the exterpation of Epiſcopacie, b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t that meerly is not the main matter the people expected which indeed is, that none be compelled againſt Conſcience in the worſhip of God, nor any molleſted for Conſcience ſake, the oppreſſion for Conſcience, having been the greateſt oppreſſion that ever lay upon religious people, and therefore except that be removed, the people have ſmall eaſe by removall of the Bi<g ref="char:EOLhyphen"/>ſhops, but rather will be in greater bondage, if more and worſe ſpirituall task<g ref="char:EOLhyphen"/>maſters be ſet over us.</p>
+            <p>Theſe were no ſmall matters alſo, their aboliſhing the High-Commiſſi<g ref="char:EOLhyphen"/>on, and Starre Chamber for oppreſſing the people, by impoſing the Oath Ex Officio, and by impriſoning of men, contrary to law, equitie, and ju<g ref="char:EOLhyphen"/>ſtice. But if the people be not totally freed from oppreſſion of the ſame na<g ref="char:EOLhyphen"/>ture, they have a very ſmall benefit of the taking downe of thoſe oppreſſing Courts. Seeming goodneſſe is more dangerous then open wickedneſſe. Kind deeds are eaſily diſcerned from faire and pleaſing words. All the Art and Sophiſterie in the world, will not availe to perſwade you, that you are not in New gate, much leſſe that you are at libertie.</p>
+            <p>And what became of that common and threed-bare doctrine, that Kings were accountable only to God, what good effects did it produce? No, they are but corrupt and dangerou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> flatterer, that maintaine any ſuch fond opini<g ref="char:EOLhyphen"/>ons concerning either Kings or Parliaments.</p>
+            <p>What prejudice is it to any in any authority, meaning well, to be ac<g ref="char:EOLhyphen"/>countable, for indeed and truth all are accountable, and it is but vaine, (if not prejudiciall) for any to thinke otherwiſe. Doth any man entruſt, and
+<pb n="7" facs="tcp:113246:3"/> not looke for juſtice and good dealing from him he truſts.</p>
+            <p>And if he find him through weakeneſſe or wickedneſſe doing the con<g ref="char:EOLhyphen"/>trary, will he forbeare to ſet him right (if he can.) Can he ſit downe ſilently with injurie or prejudice? I could judge thoſe people very neare to bondage, (if not to ruine) that could be brought to beleeve it, there be many inſtan<g ref="char:EOLhyphen"/>ces both Fortaigne and Domeſtick, which yet I forbeare to expreſſe.</p>
+            <p>The greateſt ſafety will be found in open and univerſall juſtice, who re<g ref="char:EOLhyphen"/>lyeth on any other, will be deceived, Remember therefore (ſaith God) whence thou art faine and repent, and doe the firſt workes, or elſe I will come quickly, and will remove thy Candle ſticke out of his place. March not ſo ſwiftly ye mighty ones, one ſingle honeſt heatted man alone oftimes by un<g ref="char:EOLhyphen"/>pleaſing importunity, not only ſtayes, but ſaves a whole Army from inevi<g ref="char:EOLhyphen"/>table danger; for better is wiſedome then weapons of warre <hi>Eccleſiaſtes</hi> 9. 18. Timely mementoes and cautions to adviſed and modeſt men (howſoever uttered) are never without good effect. If godly <hi>David</hi> made ſome good uſe even of raſh <hi>Sim<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is</hi> railing, then what happie uſe may the godly minded make of any faithfull mans words, which tend altogether, to juſtice, equitie, and reaſon?</p>
+            <p>Nor can I imagine any evill is now intended towards you, for your faith<g ref="char:EOLhyphen"/>full and plaine dealings, except by ſome few, and thoſe inſtigated by one on<g ref="char:EOLhyphen"/>ly, who (by his great ſucceſſe, in getting out Mr. <hi>Henry Martine,</hi> that juſt and zealous Patriot of his Countrey, and ſome other prevalencies) hath ſwolne ſo big with confidence, of greater matters, that he thinkes <hi>Lilburns</hi> blood the next meat Sacrifice for <hi>Oxford,</hi> ſo that what the King could not doe to him as one of the Parliaments beſt friends) when he was cloſe Priſo<g ref="char:EOLhyphen"/>ner there the Parliament themſelves muſt endeavour to doe to him in his unjuſt priſonment here,</p>
+            <p>The Poyſon of Aſps is under that wicked mans tongue, with which he labouteth alwaies to poyſon Scripture, (mixing it figuratively) in his diſ<g ref="char:EOLhyphen"/>courſe to corrupt, ſiniſter, and unworthy ends, whoſe malice and hypocriſie (doubtleſſe) will ere long diſcover him to all men.</p>
+            <p>And (I doubt not) but that ſame God that took a h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ppie cou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe with <hi>Ha<g ref="char:EOLhyphen"/>ma<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and delivered <hi>Mordita</hi> and all his people, will in you<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> greateſt neceſſity and his fitteſt opportunity, fight againſt all your enemies and deliver both you and all yours our of all your afflictions at leaſt, ſo to mitigat<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and ſwee<g ref="char:EOLhyphen"/>ten them by ſupporting you under them, or rather bearing of them with you) that they ſhall prove to be exceeding joyes and conſol<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tions, to you and a<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that love you.</p>
+            <p>The honeſt and plaine men of England in diſpite of that mans mallice,
+<pb n="8" facs="tcp:113246:4"/> ſhall be your Judges, and will ſpread forth in order (like King <hi>Ezekias</hi> letter) both before God and their owne conſciences, what a world of injuries and miſeries you (betweene 20. and 30. yeares of age ſcarcely to be paraleld any where in this age) have with great fidelity, magnanimitie, and conſtancie undergone, in the diſcharge of your conſcience, and defence of the liberties of your native Countrey, and will not ſuffer a haire of your head to be touched, nor any reproach to be ſtucke upon your good name, but you ſhall live and be an honour to your Nation in the hearts of all honeſt and well affected men, which ſhall ever be the hearty deſire of me.</p>
+            <closer>
+               <signed>Your faithfull Friend.</signed>
+            </closer>
+         </div>
+         <div type="printer_to_the_reader">
+            <head>The Printer to the Reader.</head>
+            <p>THere is here a copie of an excellent letter, which comming to my hands, by the carefull meanes of a worthy friend, who is a Wel-willer both to his Countreys priviledges, and to thoſe few who eitherſtand for them, or for the truth, have thought it my dutie not to <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ther nor obſcure ſuch a needfull Epiſtle' but rather (as times are) to manifeſt it to the world, ac<g ref="char:EOLhyphen"/>cording as it came entituled to me, namely, <hi>A Private letter of publique uſe:</hi> Whereby it may appeare now in theſe dangerous dayes, both how the States and Clergie of this King<g ref="char:EOLhyphen"/>dome have pittifully abuſed the people, even our ancient prediceſtors for many ages, both in Church and Common wealth.</p>
+            <p>Firſt, In bringing them with a high hand, under heavie thraldome and great bondage, and then keeping them in lamentable ſlaverie for many hundreds of yeares, as ſtill their Succeſſors the States men and Clergie of our dayes, doe with all their policie and machinations; and what deſignes they cannot thereby bring to paſſe, they endeavour by all poſſible meanes (whe<g ref="char:EOLhyphen"/>ther directly or indirectly) even by open violence, without ſhewing any juſt cauſe, and yet all <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nder the colour of lawes, when in the meane time they were called together, ſworne, intruſted and commanded, both to rectifie whatſever wicked decrees, Popiſh Cannons, Arbitrary, cor<g ref="char:EOLhyphen"/>rup<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, or defective Lawes, their prediceſſors in the dayes of groſſe ignorance and palpable dark<g ref="char:EOLhyphen"/>neſſe, did eſtabliſh.</p>
+            <p>Howſoeuer, the body of the Letter doth not ſpecifie in plaine rearmes, what the title pain<g ref="char:EOLhyphen"/>teth out in lively colours, yet thou being judicious and induſtrious, may eaſily enough perceive the ſame by the full ſcope, true intent and meaning thereof, intimated to thy underſtanding, under the Authors modeſt and loving expreſſions, to this worthy inſtrument of Englands de<g ref="char:EOLhyphen"/>livery, Lievten. Collonell <hi>Lilburn,</hi> that he may ſee more cleerly. then (it may be) he did for<g ref="char:EOLhyphen"/>merly, both how far ſhort even thoſe which we call our beſt lawes, commeth of the marke of perfection, juſtice, integrity, and reaſon, that the worthyes of Parliament, according to their duty unto the people, and the peoples due at their hands, may not only reforme what is amiſſe (and that now whiles they profeſſe reformation) but likewiſe carrie that dutyfull reſpect unto him, as one of their moſt truſty ſervants, and that according to the degree, nature, and eminen<g ref="char:EOLhyphen"/>cie of all his faithfull ſervices, and cruell ſufferings, and that ſuch others, (though there be few) may be rather encouraged to perſiſt, then any wiſe being ſo rewarded, to deſiſt. Fare you well.</p>
+            <p>
+               <hi>Courteous Reader,</hi> I deſire thee to read a late Printed Booke intituled, <hi>Englands birth<g ref="char:EOLhyphen"/>right juſtified, againſt all Arbitrary <g ref="char:V">Ʋ</g>ſurpation, whether</hi> Regall <hi>or</hi> Parliamentary, <hi>or under what Vizar ſoever.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed <hi>October,</hi> 1645.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
